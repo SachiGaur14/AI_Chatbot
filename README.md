@@ -18,10 +18,10 @@ An interactive AI chatbot web application built using FastAPI and Streamlit, pow
 ## 🏗️ Tech Stack
 
 Layer	Technology
-Backend	FastAPI, SQLAlchemy, SQLite
-Frontend	Streamlit
-AI Model	Google Gemini (gemini-1.5-flash)
-Environment	dotenv (.env) support
+**Backend**	FastAPI, SQLAlchemy, SQLite, 
+**Frontend**	Streamlit
+**AI Model**	Google Gemini (gemini-1.5-flash), 
+**Environment**	dotenv (.env) support, 
 
 ## 📷 Screenshots
 
@@ -60,6 +60,6 @@ In another terminal:
 streamlit run streamlit_app.py
 
 ## 📌 Requirements
-Python 3.8+
-Internet connection for Gemini API
+Python 3.8+, 
+Internet connection for Gemini API, 
 Google Gemini API key 
