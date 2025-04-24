@@ -24,8 +24,8 @@ AI Model	Google Gemini (gemini-1.5-flash)
 Environment	dotenv (.env) support
 
 ## 📷 Screenshots
-🧾 Chat Interface
-!(/AI_Chatbot.png)
+
+!🧾Chat Interface](/AI_Chatbot.png)
 
 
 ## 🧠 How It Works
