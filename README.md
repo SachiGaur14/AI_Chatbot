@@ -25,8 +25,7 @@ Environment	dotenv (.env) support
 
 ## 📷 Screenshots
 
-!🧾Chat Interface](/AI_Chatbot.png)
-
+![🧾 Chat Interface](AI_Chatbot.png)
 
 ## 🧠 How It Works
 User sends a message via the Streamlit frontend.
