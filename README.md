@@ -58,7 +58,7 @@ uvicorn main:app --reload --port 5002
 
 5. Launch the Streamlit Frontend
 In another terminal:
-streamlit run streamlit_app.py
+streamlit run app_ui.py
 
 ## 📌 Requirements
 Python 3.8+, 
